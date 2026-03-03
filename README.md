@@ -31,8 +31,8 @@ Edit your `.env` file:
 
 ```
 VITE_MAPBOX_ACCESS_TOKEN=your_mapbox_access_token_here
-VITE_SUPABASE_URL=https://your-project.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+VITE_SUPABASE_URL=....
+VITE_SUPABASE_ANON_KEY=....
 ```
 
 ### Step 3: Deploy to Vercel (free, gets you a URL)
